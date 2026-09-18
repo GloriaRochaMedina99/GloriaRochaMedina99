@@ -29,10 +29,9 @@
 
 ### 📊 Estadísticas de GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GloriaRochaMedina99&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Gloria" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GloriaRochaMedina99&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%" />
-</p>
+![Estadísticas de Gloria](https://github-readme-stats.vercel.app/api?username=GloriaRochaMedina99&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats-git-masterrstme-top-langs.vercel.app/api/top-langs/?username=GloriaRochaMedina99&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
