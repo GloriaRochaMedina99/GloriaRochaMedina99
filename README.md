@@ -26,13 +26,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GloriaRochaMedina99&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GloriaRochaMedina99&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
+![Seguidores](https://img.shields.io/github/followers/GloriaRochaMedina99?style=for-the-badge&logo=github&color=purple)
+![Repositorios](https://img.shields.io/github/repos/user/GloriaRochaMedina99?style=for-the-badge&logo=github&color=blue)
 
 ---
 
