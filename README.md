@@ -29,12 +29,6 @@
 ### 📊 Estadísticas de GitHub
 
 ![Seguidores](https://img.shields.io/github/followers/GloriaRochaMedina99?style=for-the-badge&logo=github&color=purple)
-![Repositorios](https://img.shields.io/github/repos/user/GloriaRochaMedina99?style=for-the-badge&logo=github&color=blue)
-
-
-### 📊 Estadísticas de GitHub
-
-![Seguidores](https://img.shields.io/github/followers/GloriaRochaMedina99?style=for-the-badge&logo=github&color=purple)
 ![Estrellas](https://img.shields.io/github/stars/GloriaRochaMedina99?style=for-the-badge&logo=github&color=blue)
 ---
 
