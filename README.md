@@ -29,10 +29,9 @@
 
 ### 📊 Estadísticas de GitHub
 
-![Estadísticas de Gloria](https://github-readme-stats.vercel.app/api?username=GloriaRochaMedina99&show_icons=true&theme=tokyonight&hide_border=true)
+![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=GloriaRochaMedina99&theme=tokyonight&hide_border=true)
 
-![Lenguajes más usados](https://github-readme-stats-git-masterrstme-top-langs.vercel.app/api/top-langs/?username=GloriaRochaMedina99&layout=compact&theme=tokyonight&hide_border=true)
-
+![Perfil GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GloriaRochaMedina99&theme=tokyonight)
 ---
 
 ### 📬 ¡Contactame!
